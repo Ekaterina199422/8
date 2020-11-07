@@ -13,7 +13,7 @@ open class NoteServiceCore {
         throw NoteIdNotFoundException("Note Id not found!")
     }
 
-    //эта функция не учитывает флаг удаления записи (требуется для restore)
+   
     private fun getNoteByIdForced(id: Int): Note {
         for (note in noteList) {
             if (note.id == id) return note
@@ -50,9 +50,7 @@ open class NoteServiceCore {
         comment.edit(text)
     }
 
-    //функция возвращает строку, содержащую запись с вложенными комментариями и некоторым форматированием
-    //В данный момент функционал ограничен по отображению количества вложенных комментариев
-    // (возможен только коммент к комменту)
+    
     fun getNoteWithComments(note: Note): String {
         if (note.isDeleted) return ""
         var outString = "-=${note.title}=-\n"
