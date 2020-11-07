@@ -1,7 +1,7 @@
 fun main() {
-    NoteService.addNote(Note(title = "Заголовок1", text = "первая запись"))
-    NoteService.addNote(Note(title = "Заголовок2", text = "вторая запись"))
-    NoteService.addNote(Note(title = "Заголовок3", text = "третья запись"))
+    NoteService.addNote(Note(title = "Заголовок 1", text = "первая запись"))
+    NoteService.addNote(Note(title = "Заголовок 2", text = "вторая запись"))
+    NoteService.addNote(Note(title = "Заголовок 3", text = "третья запись"))
     NoteService.addComment(Comment(text = "комментарий к записи 2"), NoteService.getNoteById(2))
 
     println(NoteService.getNoteWithComments(NoteService.getNoteById(1)))
