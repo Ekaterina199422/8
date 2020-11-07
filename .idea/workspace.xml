@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="823cc8d1-39f6-452e-b4a5-1f519df6d9bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../first/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../second-upp/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../third/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled27/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled28/src/main/kotlin/нщз8з.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled29/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/Comments.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/GeoPlace.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/Likes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/Post.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/PostSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/Reposts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/Views.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/WallService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled30/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled31/src/main/kotlin/Comments.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled31/src/main/kotlin/Likes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled31/src/main/kotlin/Post.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled31/src/main/kotlin/Reposts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled31/src/main/kotlin/Views.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled31/src/main/kotlin/WallServise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled31/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled31/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled32/src/main/kotlin/Comments.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled32/src/main/kotlin/Likes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled32/src/main/kotlin/Post.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled32/src/main/kotlin/Reposts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled32/src/main/kotlin/Views.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled32/src/main/kotlin/WallServise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled32/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled32/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/Comments.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/Geo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/GeoPlace.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/Likes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/Place.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/Post.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/PostSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/Reposts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/Views.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/main/kotlin/WallServise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled33/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/Comments.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/Geo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/GeoPlace.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/Likes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/Post.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/PostSource.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/Reposts.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/Views.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/main/kotlin/WallService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled34/src/test/kotlin/WallServiceTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled35/src/main/kotlin/attachments/Attachment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled35/src/main/kotlin/attachments/Audio.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled35/src/main/kotlin/attachments/Photo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled35/src/main/kotlin/attachments/Video.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled36/src/main/kotlin/Comment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled36/src/main/kotlin/Notable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled36/src/main/kotlin/Note.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled36/src/main/kotlin/NoteService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled36/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Comment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Notable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Note.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NoteService.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/NoteServiceCoreTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../first-app" beforeDir="false" afterPath="$PROJECT_DIR$/../first-app" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jxFnigUMVqncpYw4oaH9KImub1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/kotlin" />
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled37 [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.untitled37 [test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="823cc8d1-39f6-452e-b4a5-1f519df6d9bd" name="Default Changelist" comment="" />
+      <created>1604738004610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604738004610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

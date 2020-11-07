@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NoteServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-11-07T08:40:09" hostname="ПОЛЬЗОВАТЕЛЬ-ПК" time="0.224">
+  <properties/>
+  <testcase name="addComment" classname="NoteServiceTest" time="0.116"/>
+  <testcase name="addCommentShouldThrow" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="addNote" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="addNoteShouldThrow" classname="NoteServiceTest" time="0.001"/>
+  <testcase name="deleteNoteShoudThrow" classname="NoteServiceTest" time="0.102"/>
+  <testcase name="restoreNote" classname="NoteServiceTest" time="0.0"/>
+  <testcase name="addComment2Comment" classname="NoteServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
